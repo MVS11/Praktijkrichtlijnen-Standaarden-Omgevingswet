@@ -33,7 +33,7 @@ var respecConfig =
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   //-- de github repository waar je documentn in staat --------------------------------
-  github: "https://github.com/geonovum/respec/Praktijkrichtlijnen-Standaarden-Omgevingswet",
+  github: "https://github.com/geonovum/Praktijkrichtlijnen-Standaarden-Omgevingswet",
   editors: 
   [
     {
