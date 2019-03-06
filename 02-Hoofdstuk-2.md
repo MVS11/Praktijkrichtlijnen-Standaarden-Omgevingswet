@@ -1,17 +1,19 @@
-﻿# Hoofdstuk 2
+Hoofdstuk 2
+===========
 
-## Paragraaf 1
+Paragraaf 1
+-----------
 
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
+the quick brown fox jumps over the lazy dog the quick brown fox jumps over the
+lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps
+over the lazy dog the quick brown fox jumps over the lazy dog
 
-## Paragraaf 2
+**Ik heb hier een wijzigings aangebracht om te te testen of de koppeling met
+GitHub werkt**
 
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
-the quick brown fox jumps over the lazy dog
+Paragraaf 2
+-----------
+
+the quick brown fox jumps over the lazy dog the quick brown fox jumps over the
+lazy dog the quick brown fox jumps over the lazy dog the quick brown fox jumps
+over the lazy dog the quick brown fox jumps over the lazy dog
