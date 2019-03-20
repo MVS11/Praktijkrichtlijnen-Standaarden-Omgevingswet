@@ -1,0 +1,26 @@
+### Kenschets rechtsfiguur omgevingsplan
+
+Gemeenten stellen elk integraal beleid en regels vast over de ontwikkeling, het
+gebruik, de bescherming, het beheer en onderhoud van de fysieke leefomgeving
+voor hun grondgebied. Zij leggen dit vast in één of meerdere OW-besluiten, in
+dit geval de omgevingsvisie en het omgevingsplan.
+
+De gemeente heeft één omgevingsplan voor haar gehele grondgebied op grond van de
+Gemeentewet en andere bijzondere wetten.
+
+Zie 3.1 van de [TPOD omgevingsplan versie
+0.97](https://standaardenomgevingswet.geonovum.nl/docs/12.%20TPOD%20Omgevingsplan%20v0.97.pdf)
+voor een uitgebreide toelichting op het rechtsfiguur
+
+Juridische kenmerken omgevingsplan
+
+| Onderwerp                                                                                                                                                               | Specificatie                                                                                                                                                                                                                                                                           |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Grondslag rechtsfiguur                                                                                                                                                  | Artikel 2.4 Omgevingswet                                                                                                                                                                                                                                                               |
+| Voorbereidingsprocedure                                                                                                                                                 | Verplichtingen: kennisgeving van voornemen omgevingsplan vast te stellen (art. 16.29 Ow)  toepassen afdeling 3.4 Awb (art. 16.30 Ow)                                                                                                                                                   |
+| Tijdstip bekendmaking/  terinzagelegging vastgesteld omgevingsplan                                                                                                      | Terinzagelegging niet eerder dan 2 weken na datum vaststelling, tenzij: Gedeputeerde Staten geen zienswijze over ontwerp hebben ingebracht, t.o.v. ontwerp geen wijzigingen zijn aangebracht, of GS hebben bepaald dat omgevingsplan eerder mag worden bekendgemaakt (art. 16.77a Ow)  |
+| Inwerkingtreding                                                                                                                                                        | Omgevingsplan treedt in werking 4 weken na dag terinzagelegging, tenzij in omgevingsplan later tijdstip is bepaald (art. 16.78 Ow). Aan regels omgevingsplan kan tijdelijke werking worden gegeven1                                                                                    |
+| Rechtsbescherming                                                                                                                                                       | beroep bij Afdeling bestuursrechtspraak Raad van State                                                                                                                                                                                                                                 |
+| Geldt TPOD ook voor ontwerpbesluit                                                                                                                                      | Ja                                                                                                                                                                                                                                                                                     |
+| Rechtsfiguur roept meldingsplicht of vergunningplicht in het leven en/of bevat bepalingen waaraan aanvragen om omgevingsvergunning rechtstreeks getoetst moeten worden  | Ja (art. 4.4 Ow)                                                                                                                                                                                                                                                                       |
+| Rechtsfiguur bevat voor eenieder bindende regels                                                                                                                        | Ja                                                                                                                                                                                                                                                                                     |
