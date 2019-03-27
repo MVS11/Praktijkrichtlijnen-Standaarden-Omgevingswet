@@ -52,32 +52,12 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Auteur-1",
+      name:       "Lindy Heesters",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
     {
-      name:       "Auteur-2",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
-    {
-      name:       "Auteur-3",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
-    {
-      name:       "Auteur-4",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
-    {
-      name:       "Auteur-5",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
-    {
-      name:       "Auteur-6",
+      name:       "Mira de Ree",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
