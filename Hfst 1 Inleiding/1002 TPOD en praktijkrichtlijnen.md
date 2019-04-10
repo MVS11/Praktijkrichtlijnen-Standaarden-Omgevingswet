@@ -1,5 +1,5 @@
-TPOD en praktijkrichtlijnen
----------------------------
+
+## TPOD en praktijkrichtlijnen
 
 Er is door KOOP één generieke standaard ontwikkeld voor alle
 overheidspublicaties: de Standaard Officiële Overheids Publicaties, ofwel STOP.
