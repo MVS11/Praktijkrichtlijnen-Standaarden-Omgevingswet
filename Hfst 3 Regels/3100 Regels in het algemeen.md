@@ -9,8 +9,6 @@ stellen van regels is in beginsel een keuze van de decentrale overheden. Dit
 betekent dat de taken en de bevoegdheden in principe worden uitgevoerd door
 gemeenten en waterschappen.
 
-DEZE TEKST IS GEHACKT!!!!!
-
 De regels over activiteiten die gevolgen (kunnen) hebben voor de fysieke
 leefomgeving, kunnen in verschillende OW-besluiten staan, namelijk in het
 omgevingsplan, de waterschapsverordening, de omgevingsverordening en in algemene
