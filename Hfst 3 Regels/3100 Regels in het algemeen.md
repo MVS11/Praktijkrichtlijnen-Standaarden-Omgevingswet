@@ -1,4 +1,4 @@
-**Regels in het algemeen**
+## Regels in het algemeen
 
 Het bevoegd gezag heeft de mogelijkheid om diverse soorten regels op te stellen
 over activiteiten die gevolgen (kunnen) hebben voor de fysieke leefomgeving. De

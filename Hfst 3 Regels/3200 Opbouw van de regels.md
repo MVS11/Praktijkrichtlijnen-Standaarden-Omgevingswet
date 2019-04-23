@@ -1,4 +1,4 @@
-**Opbouw van de regels**
+## Opbouw van de regels
 
 Om de regels in het Digitale Stelsel Omgevingswet te laten landen bestaan deze
 uit verschillende onderdelen:
