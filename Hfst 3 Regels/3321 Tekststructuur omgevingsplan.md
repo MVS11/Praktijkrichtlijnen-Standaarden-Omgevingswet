@@ -1,4 +1,4 @@
-*Tekststructuur omgevingsplan*
+#### Tekststructuur omgevingsplan
 
 Het omgevingsplan zelf, dus het tweede deel van ieder besluit tot vaststelling
 c.q. wijziging van het omgevingsplan, én de geconsolideerde versie van het

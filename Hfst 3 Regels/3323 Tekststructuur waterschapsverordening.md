@@ -1,4 +1,4 @@
-*Tekststructuur waterschapsverordening*
+#### Tekststructuur waterschapsverordening
 
 De waterschapsverordening zelf, dus het tweede deel van ieder besluit tot
 vaststelling c.q. wijziging van de waterschapsverordening, én de geconsolideerde

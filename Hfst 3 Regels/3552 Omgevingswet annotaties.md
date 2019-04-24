@@ -1,4 +1,4 @@
-*Omgevingswet-annotaties*
+#### Omgevingswet-annotaties
 
 In omgevingswet-annotaties kan informatie worden opgenomen die niet eenvoudig in
 tekstuele vorm te beschrijven is. Bijvoorbeeld de aanduiding van het

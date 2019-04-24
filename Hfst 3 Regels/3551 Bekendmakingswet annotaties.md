@@ -1,4 +1,4 @@
-*Bekendmakingswet-annotaties*
+#### Bekendmakingswet-annotaties
 
 De bekendmakingswet-annotaties zijn noodzakelijk voor bekendmaken en
 consolideren van o.a. besluiten (Borging via de Bekendmakingswet BkW). Dit is
@@ -24,7 +24,5 @@ OW-besluit, maar worden gebruikt voor de regeling. Deze kunnen gewijzigd worden
 zonder dat het bevoegd gezag daarover een besluit neemt. Een deel vult de
 planapplicatie zelf in en een deel zal expliciet door de opsteller moeten worden
 ingevuld.
-
-![](media/5967efa74788e98b2be41a837de8bc76.png)
 
 *Verplichte bekendmakingswet-annotaties: metadata*

@@ -1,4 +1,4 @@
-*Tekststructuur omgevingsvisie*
+#### Tekststructuur omgevingsvisie
 
 Om de provincie de mogelijkheid te bieden de omgevingsverordening naar eigen
 inzicht in te delen wordt er slechts een zeer beperkte vorm van

@@ -1,4 +1,4 @@
-*Eigenschappen van Locatie*
+#### Eigenschappen van Locatie
 
 Locatie bevat zoals gezegd één of meer geometrieën. Een geometrie legt een
 positie vast door middel van coördinaten. Het gaat hier om de geometrische
@@ -37,24 +37,25 @@ weergegeven, zijn:
 -   Nieuwe luidruchtige activiteiten en gedragingen zijn in een *stiltegebied*
     verboden.
 
-| Geometrie | De beschrijving van de positie door middel van coördinaten.                                                      |
-|           | Voor Geometrie gelden de volgende functionele normen:                                                            |
-|-----------|------------------------------------------------------------------------------------------------------------------|
+\| Geometrie \| De beschrijving van de positie door middel van coördinaten. \|
+\| \| Voor Geometrie gelden de volgende functionele normen: \|
+\|-----------\|------------------------------------------------------------------------------------------------------------------\|
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-   Bij Locatie is Geometrie verplicht.
 
-    -   Bij Locatie is Geometrie verplicht.
+    -   Locatie kan bestaan uit één of meer Geometrieën.
 
-        -   Locatie kan bestaan uit één of meer Geometrieën.
+        -   Een Geometrie mag alleen een vlak of multivlak zijn.
 
-            -   Een Geometrie mag alleen een vlak of multivlak zijn.
+        -   Per Locatie kan de coordinate reference system (crs)
+            verschillen. Deze wordt bijgehouden bij Geometrie. Als een
+            Locatie bestaat uit meerdere Geometrieën moeten deze allemaal
+            dezelfde crs hebben. De standaard ondersteunt de volgende
+            crs-en:
 
-            -   Per Locatie kan de coordinate reference system (crs)
-                verschillen. Deze wordt bijgehouden bij Geometrie. Als een
-                Locatie bestaat uit meerdere Geometrieën moeten deze allemaal
-                dezelfde crs hebben. De standaard ondersteunt de volgende
-                crs-en:
-
-                EPSG:28992 (=RD) en EPSG:4258 (=ETRS89)
+            EPSG:28992 (=RD) en EPSG:4258 (=ETRS89)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 | Bron        | De bron die is gebruikt voor, dan wel de wijze van inwinning van de geometrie. Bron wordt gekozen uit een limitatieve waardelijst.                                                                                                                                                          |   |   |   |   |   |
 |-------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|---|---|
@@ -65,5 +66,3 @@ weergegeven, zijn:
 Eigenschappen van locatie toegelicht
 
 Dat ziet er in de STOP dan als volgt uit:
-
-![](media/7b88c964337e6d52450f0b05e2f98920.png)

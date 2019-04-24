@@ -1,4 +1,4 @@
-*Cirkelbogen*
+#### Cirkelbogen
 
 Cirkelbogen (of delen daarvan) komen in de juridische wet- en regelgeving op
 meerdere plekken voor. Voorbeelden zijn de brandaandachtsgebied,
@@ -48,8 +48,6 @@ geometrie van BGT/IMGeo objecten is 0.05m, ofwel 5 centimeter. Er bestaan
 verschillende technische algoritmen voor het verstroken van cirkelbogen. Deze
 praktijkrichtlijn laat leveranciers c.q. bronhouder de keuze welke
 verstrokingsalgoritme wordt toegepast.
-
-![](media/8cd21dc88a9fd18ec1f0a3d919c0f474.png)
 
 Een koorde is het lijnstuk dat twee punten op een cirkel met elkaar verbindt. De
 pijl is het lijnstuk tussen het midden van een (cirkel)boog en het midden van de

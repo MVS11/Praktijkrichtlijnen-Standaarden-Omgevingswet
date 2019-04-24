@@ -1,4 +1,4 @@
-*Tekststructuur PB*
+#### Teksstructuur projectbesluit
 
 Het projectbesluit zelf bestaat uit deel 1 welke een vrije tekststructuur kent.
 Mogelijk nog aangevuld met de nodige bijlagen.

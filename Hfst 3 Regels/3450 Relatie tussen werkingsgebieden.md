@@ -1,4 +1,4 @@
-*Relatie tussen werkingsgebieden, functies en (gebruiks)activiteiten*
+#### Relatie tussen werkingsgebieden, functies en (gebruiks)activiteiten
 
 Voor afhankelijkheden tussen locaties, functies en activiteiten gelden enkele
 eigenschappen. Zo kunnen locaties bijvoorbeeld overlappend zijn en kunnen

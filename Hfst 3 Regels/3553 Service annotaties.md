@@ -1,4 +1,4 @@
-*Service-annotaties*
+#### Service-annotaties
 
 Service-annotaties zijn annotaties die gebruikers een meer gedetailleerd inzicht
 bieden, maar niet noodzakelijk zijn om het DSO op de beoogde wijze te laten

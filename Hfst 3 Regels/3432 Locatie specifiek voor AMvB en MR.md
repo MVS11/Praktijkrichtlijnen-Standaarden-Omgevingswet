@@ -1,4 +1,4 @@
-*Locatie specifiek voor AMvB en MR*
+#### Locatie specifiek voor AMvB en MR
 
 Specifiek voor de AMvB en MR zijn een aantal uitgangspunten van belang voor het
 toepassen van locaties. Deze worden in onderstaande alinea’s verder toegelicht.

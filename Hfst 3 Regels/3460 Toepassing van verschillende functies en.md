@@ -1,5 +1,4 @@
-*Toepassing van verschillende functies en/of gebruiksactiviteiten in één
-gebied.*
+### Toepassing van verschillende functies en/of gebruiksactiviteiten in één gebied.
 
 Er zijn verschillende methoden om in één gebied verschillende functies toe te
 delen en/of verschillende gebruiksactiviteiten toe te staan. Voorbeelden van de
