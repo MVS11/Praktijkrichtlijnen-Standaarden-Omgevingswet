@@ -22,8 +22,8 @@ var respecConfig =
   //specType: "NO",                   // Norm
   //specType: "ST",                   // Standaard
   //specType: "IM",                   // Informatie Model
-  //specType: "PR",                     // Praktijk Richtlijn
-  specType: "PR",                   // HandReiking
+  specType: "PR",                     // Praktijkrichtlijn
+  //specType: "PR",                   // HandReiking
   //specType: "WA",                   // Werkafspraak
   //-- format is verplicht! -----------------------------------------------------------
   format: "markdown",                 // altijd "markdown"     
@@ -35,17 +35,17 @@ var respecConfig =
   //-- de github repository waar je documentn in staat --------------------------------
   github: "https://github.com/geonovum/Praktijkrichtlijnen-Standaarden-Omgevingswet",
   editors: 
-  [
-    {
-      name:       "Editor-1",
+ [
+  {
+      name:       "PR04",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     }, 
-    {
-      name:       "Editor-2",
-      company:    "Geonovum",
-      companyURL: "https://www.geonovum.nl"
-    }, 
+//    {
+//      name:       "Editor-2",
+//      company:    "Geonovum",
+//      companyURL: "https://www.geonovum.nl"
+//    }, 
   ],
   //-- de namen van de Author(s) ------------------------------------------------------
   //-- vul in: per Author: name:, company:, companyURL: -------------------------------
@@ -60,7 +60,17 @@ var respecConfig =
       name:       "Mira de Ree",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
-    }, 
+    },
+    {
+      name:       "Nadine van Dun",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+	},
+	{
+      name:       "Britt van Waveren",
+      company:    "Geonovum",
+      companyURL: "https://www.geonovum.nl"
+	},
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "pso",  	          // Wordt gebruikt in de document URL

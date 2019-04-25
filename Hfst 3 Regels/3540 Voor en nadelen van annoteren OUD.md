@@ -1,4 +1,4 @@
-### Voor en nadelen van annoteren
+### Voor en nadelen van annoteren 
 
 In de afbeelding hieronder is te zien dat er een juridisch minimum is aan zaken
 die geannoteerd moeten worden. Daarnaast kan het bevoegd gezag schuiven tot er
@@ -6,6 +6,8 @@ digitaal optimaal mee gewerkt kan worden. Ieder bevoegd gezag kan zelf bepalen
 wanneer het digitaal optimaal is. Dit hangt af van het ambitieniveau, de
 beschikbare capaciteit voor het opstellen van het OW-besluit en de beschikbare
 capaciteit voor het beheer.
+
+![](media/996d8bbe420fc189684a5a154d1e5347.png)
 
 *Annotatie-schaal van juridisch minimum tot digitaal optimaal*
 
@@ -17,8 +19,7 @@ capaciteit voor het beheer.
 
 -   Een goede betekenisvolle weergave van zowel regeltekst als de kaart
 
--   Hiermee wordt de verbondenheid tussen regels en werkingsgebied specifieker
-    en gedetailleerder.
+-   Hiermee wordt de verbondenheid tussen regels en werkingsgebied groter.
 
 -   Garanderen dat het basisniveau van DSO-LV werkelijk benut kan worden:
 

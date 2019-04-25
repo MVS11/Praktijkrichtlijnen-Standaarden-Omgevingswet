@@ -1,11 +1,11 @@
-TPOD en praktijkrichtlijnen
----------------------------
 
-Er is door Kenniscentrum Officiële OverheidsPublicaties (KOOP) één generieke
-standaard ontwikkeld voor alle overheidspublicaties: de Standaard Officiële
-Overheids Publicaties, ofwel STOP. De standaard legt vast hoe de regels moeten
-worden ingedeeld en geannoteerd, hoe regeltekst aan locaties moet worden
-gekoppeld en welke waardelijsten van toepassing zijn.
+## TPOD en praktijkrichtlijnen
+
+Er is door KOOP één generieke standaard ontwikkeld voor alle
+overheidspublicaties: de Standaard Officiële Overheids Publicaties, ofwel STOP.
+De standaard legt vast hoe de regels moeten worden ingedeeld en geannoteerd, hoe
+regeltekst aan locaties moet worden gekoppeld en welke waardelijsten van
+toepassing zijn.
 
 Middels het Toepassingsprofiel Omgevingsdocumenten (TPOD) wordt de STOP
 verbijzonderd met specifieke toepassingen voor de Omgevingswet en de specifieke
@@ -25,6 +25,8 @@ presenteren en muteren & consolideren.
 De onderwerpen van de praktijkrichtlijnen zijn vastgelegd in de onderstaande
 afbeelding.
 
+![](media/a291c6f73088bc59041b40f1bdc7afe6.png)
+
 Onderwerpen praktijkrichtlijnen 0.97
 
 De praktijkrichtlijnen zijn nog volop in ontwikkeling. Indien uitgewerkte
@@ -37,6 +39,8 @@ van inzicht, overzicht en handelingsperspectief m.b.t. de standaard.
 
 De metafoor spreekt over de hoofdelementen van een woning (de
 STOP-TPOD-standaard) die samen de woning vormen.
+
+![](media/327d9118307435e9bc5b1619bd184aec.png)
 
 Het dak van het huis van de standaarden: de praktijkrichtlijnen
 
